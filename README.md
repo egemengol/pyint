@@ -8,6 +8,8 @@ Pyint is a Python application acting as a Microsoft Paint clone. Tkinter and Pil
 
 Icons are from icons8.com
 
+##### Click [here](static/report.pdf) to go to the report.
+
 ## Installation
 
 Developed and tested on Python 3.7
