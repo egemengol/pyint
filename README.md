@@ -21,7 +21,7 @@ pip install pillow
 ## Usage
 
 ```
-$ python main
+$ python main.py
 ```
 
 ## Screenshot
